@@ -46,7 +46,7 @@ usethis::use_test("app")
 # Documentation
 
 ## Vignette ----
-usethis::use_vignette("Fotona")
+usethis::use_vignette("KingMedical")
 devtools::build_vignettes()
 
 ## Set the code coverage service ("codecov" or "coveralls")
