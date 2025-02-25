@@ -1,0 +1,12 @@
+name: KingMedical
+title: KingMedical
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14097906
+bundleId: 9855589
+url: https://inva.shinyapps.io/KingMedical/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
